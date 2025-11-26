@@ -4,6 +4,10 @@ I'm **Abhinav Thundiyil Sathyadas**, a Software Engineer & Data Analyst based in
 
 ---
 
+## 🚀 Quick Navigation
+
+**[Featured Projects](#-key-projects)** | **[Tech Stack](#-tech-stack)** | **[Career Goals](#-career-goals)** | **[Connect](#-connect-with-me)**
+
 ## 🎓 About Me
 
 Recent Master's graduate in Computer Engineering from Vistula University (GPA: 4.4) with a strong foundation in embedded systems, cloud technologies, and data analytics. I'm passionate about building innovative solutions that bridge software engineering excellence with data-driven insights.
