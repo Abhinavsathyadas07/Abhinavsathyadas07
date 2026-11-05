@@ -10,7 +10,7 @@ I'm **Abhinav Thundiyil Sathyadas**, a Software Engineer & Data Analyst based in
 
 ## 🎓 About Me
 
-Recent Master's graduate in Computer Engineering from Vistula University (GPA: 4.4) with a strong foundation in embedded systems, cloud technologies, and data analytics. I'm passionate about building innovative solutions that bridge software engineering excellence with data-driven insights.
+Master of Engineering (MEng) in Computer Science from Vistula University (study average 4.31 / 5.0), with a strong foundation in embedded systems, cloud technologies, and data analytics. I'm passionate about building innovative solutions that bridge software engineering excellence with data-driven insights.
 
 **Current Focus:**
 - **Embedded Systems & Avionics** – Aircraft fault detection, predictive maintenance, and system optimization
@@ -39,30 +39,27 @@ I actively seek entry-level roles in **software engineering**, **data analysis**
 ### 🛩️ [Avionics System Simulator](https://github.com/Abhinavsathyadas07/avionics-system-simulator)
 **C++ | CMake | Embedded Systems**
 - Modular avionics system simulator for flight control and sensor processing
-- Implements realistic flight dynamics and fault detection mechanisms
-- Built with CMake on macOS; comprehensive error correction and logging
+- Flight-phase state machine, sensor processing, fault handling, system monitoring and telemetry logging
+- C++17 with CMake; Python script to visualise the recorded telemetry
 - Demonstrates proficiency in embedded C++ and real-time system design
 
-### ☁️ [AWS Cost Optimizer](https://github.com/Abhinavsathyadas07/aws-cost-optimizer)
-**Python | AWS SDK | Django/Flask | Data Analytics**
-- Cloud architecture analysis and cost optimization tool for AWS deployments
-- Analyzes EC2, S3, Lambda, and RDS resources; identifies optimization opportunities
-- Django/Flask web dashboard with interactive visualizations (Pandas, Matplotlib)
-- Inspired by AWS internship; features batch processing and timestamped database logging
-- Demonstrates cloud engineering expertise and data-driven decision making
+### ☁️ [AWS Cost Optimizer](https://github.com/Abhinavsathyadas07/aws-cost-optimizer) *(early prototype)*
+**Python | Django | AWS SDK (boto3)**
+- Django app for planning AWS deployments: cost calculator, auto-scaling, multi-region and Elastic Beanstalk template services
+- Work in progress: the services are scaffolds and the AWS Pricing API lookup is not implemented yet
 
 ### 🔍 [Aircraft Defect Diagnosis](https://github.com/Abhinavsathyadas07/aircraft-defect-diagnosis)
 **Python | Data Analytics | Interactive Dashboard**
-- Modular Python system for simulating, detecting, and predicting aviation faults
-- Provides maintenance recommendations and risk assessments
+- Modular Python pipeline: simulated sensor data, rule-based defect detection and rolling-average risk flags
+- Maintenance recommendations, fault log and maintenance cost forecast
+- scikit-learn decision-tree classifier for fault severity
 - Interactive Streamlit dashboard for visualization and analysis
-- Applies machine learning to critical safety systems
 
 ### 🧬 [DNA Data Storage Simulator](https://github.com/Abhinavsathyadas07/dna_storage_simulator)
 **Python | Data Engineering | Error Correction**
-- Large-scale modular system for DNA-based data encoding and compression
-- Implements encoders, compressors, error correction codes, and data validation
-- Web dashboard and comprehensive testing suite
+- Modular pipeline for storing data in DNA: Huffman compression, binary-to-base encoding and Hamming error correction
+- Seedable error model to simulate sequencing errors and check recovery
+- Flask web dashboard and unit tests
 - Demonstrates data engineering principles and algorithmic design
 
 ### 🔐 [Cybersecurity & Password Security Analyzer](https://github.com/Abhinavsathyadas07/cybersecurity-password-analyzer)
@@ -74,16 +71,16 @@ I actively seek entry-level roles in **software engineering**, **data analysis**
 
 ---
 
-## 🏆 Professional Experience
+## 🏆 Experience
 
-### AWS Cloud Engineering Internship
-- Developed cloud cost optimization strategies and architectural analysis tools
-- Worked with AWS services: EC2, S3, Lambda, CloudWatch, RDS
-- Built Python-based analytics and reporting systems
+### Data Analyst Intern · ONEDIGI Sp. z o.o., Warsaw (Jan – Jul 2024)
+- Exploratory data analysis and structured reports for stakeholders
+- Data-processing scripts and web components (HTML, CSS, JavaScript, Java); responsive UI improvements
+- Website vulnerability assessments, security fixes and maintenance
+- 720-hour credited internship (Vistula University programme)
 
-### Financial Services (Goldman Sachs & Mastercard)
-- Participated in advanced cyber security and compliance training
-- Gained hands-on experience in cryptography and payment security protocols
+### Forage job simulations (2024 – 2025)
+- Deloitte (data analytics), British Airways, Goldman Sachs (software engineering), Mastercard (security awareness), Verizon (cloud) and JPMorgan Chase (advanced software engineering)
 
 ---
 
@@ -106,7 +103,8 @@ I actively seek entry-level roles in **software engineering**, **data analysis**
 
 ## 🔗 Connect with Me
 
-- **LinkedIn:** [Abhinav Thundiyil Sathyadas](https://www.linkedin.com/in/abhinav-t-s-1b4b86187/)
+- **Portfolio:** [abhinav-sathyadas.vercel.app](https://abhinav-sathyadas.vercel.app)
+- **LinkedIn:** [Abhinav Thundiyil Sathyadas](https://www.linkedin.com/in/abhinavsathyadas)
 - **GitHub:** [Abhinavsathyadas07](https://github.com/Abhinavsathyadas07)
 - **Email:** [abhinavsathyadas@gmail.com](mailto:abhinavsathyadas@gmail.com)
 - **Twitter:** [@Abhinav_T_S_](https://twitter.com/Abhinav_T_S_)
@@ -115,4 +113,4 @@ I actively seek entry-level roles in **software engineering**, **data analysis**
 
 **Always open to collaborations, internships, and opportunities to learn new technologies!**
 
-*Last updated: November 26, 2025*
+*Last updated: November 5, 2026*
